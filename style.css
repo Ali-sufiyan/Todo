@@ -1,0 +1,30 @@
+body{
+    padding: 0% 25%;
+    text-decoration: none;
+}
+.inpu{
+    display: inline;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+
+}
+button{
+    background-color: #00cdac;
+    opacity: 0.5;
+    border-radius: 5rem;
+    text-decoration: none;
+    border: none;
+}
+div{
+    text-align: center;
+    text-decoration: none;
+}
+ul{
+    text-decoration: none;
+    background-color: red;
+    padding: 2%;
+    margin: 6%;
+    text-decoration: none;
+
+}
